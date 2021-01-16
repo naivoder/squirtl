@@ -1,4 +1,4 @@
-# feeder - The Squirtl Project :bird::sweat_drops:
+# The Squirtl Project :bird::sweat_drops:
 Intelligent pest control application - CNN and water turret to defend bird feeder from squirrels
 
 Tired of having squirrels eat all your bird seed? Squirtl protects your birdfeeder by identifying, tracking and accurately spraying squirrels with a burst of water!
